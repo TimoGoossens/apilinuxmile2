@@ -1,6 +1,6 @@
 version: "3.9"
 services:
  randomizer-service:
-  image: miverboven/python-api-test
+  image: timogoossens/apilinuxmile2
   ports:
     - "8000:8000"
